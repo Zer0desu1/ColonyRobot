@@ -6,8 +6,8 @@
 #include <WiFiMulti.h>
 #include <WebSocketsClient.h>
 #include <ArduinoJson.h>
-const char* ssid = "VodafoneNet-V";
-const char* password = "520940330666";
+const char* ssid = "";
+const char* password = "";
 
 #define WS_SERVER_IP "192.168.1.5"
 #define WS_SERVER_PORT 8000
